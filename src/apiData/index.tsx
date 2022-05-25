@@ -15,7 +15,7 @@ const option1 = {
     },
     headers: {
       'X-RapidAPI-Host': 'bayut.p.rapidapi.com',
-      'X-RapidAPI-Key': 'defa4befeemsh2e991c5b81e3562p129b2bjsn43184cbb45ec'
+      'X-RapidAPI-Key': 'b7e66f7592msh9aa44d24501c2dep1cbc93jsn87c00024e668'
     }
   };
 
@@ -34,7 +34,7 @@ const option1 = {
     },
     headers: {
       'X-RapidAPI-Host': 'bayut.p.rapidapi.com',
-      'X-RapidAPI-Key': 'defa4befeemsh2e991c5b81e3562p129b2bjsn43184cbb45ec'
+      'X-RapidAPI-Key': 'b7e66f7592msh9aa44d24501c2dep1cbc93jsn87c00024e668'
     }
   };
 
